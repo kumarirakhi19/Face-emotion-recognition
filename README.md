@@ -1,2 +1,1 @@
-# Face-emotion-recognition
-deep learning
+# Face-emotion-Recognition
