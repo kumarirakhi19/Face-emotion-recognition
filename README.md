@@ -170,10 +170,10 @@ We have created front-end using Streamlit for webapp and used streamlit-webrtc w
 ![Screenshot 2022-01-30 233518](https://user-images.githubusercontent.com/86125144/151711872-343af778-8907-4364-806b-24a664846031.png)
 
 
-Streamlit: https://share.streamlit.io/raushan9jnv/face-emotion-recognition/main/app.py
+Streamlit: https://share.streamlit.io/kumarirakhi19/face-emotion-recognition/main/app.py
  
 
-Heroku: https://face-emotion-recog-app.herokuapp.com/
+Heroku: https://face-emotion-recog-rk.herokuapp.com/
 
 
 ## Conclusion
